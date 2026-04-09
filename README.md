@@ -72,7 +72,7 @@ Key settings:
 
 | Setting | Default | Description |
 |---|---|---|
-| `WIIM_IP` | `"10.70.30.40"` | LAN IP of your WiiM device |
+| `WIIM_IP` | `"Wiim IP or Hostname"` | LAN IP of your WiiM device |
 | `CLOCK_12HR` | `True` | 12-hour (`True`) or 24-hour (`False`) clock |
 | `SHOW_CLOCK_WHEN_IDLE` | `True` | Show clock when idle, or black screen |
 | `CLOCK_IDLE_SECS` | `120` | Seconds of no playback before idle screen |
