@@ -18,7 +18,8 @@ WiimDeck/
   options.py                       ← all user settings  (edit this)
   wiim_client.py                   ← WiiM HTTP API wrapper (reference)
   simplebg.jpg                     ← example idle background image
-  applications/
+  Roboto-Medium.af                 ← Required Font (must be present or application will not launch)
+applications/
     wiim/
       wiim.py                      ← full application code
       icons/                       ← PNG transport button icons
